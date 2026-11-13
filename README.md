@@ -36,18 +36,68 @@ Tenho interesse especial em **automação com Excel e Python**, análise de dado
 
 | Projeto | Descrição |
 |:--|:--|
-| **Sistema de Gestão de Postos** | Sistema para apoiar a organização administrativa, gestão documental, controle de informações e automação de rotinas de um posto. |
-| **Jarvis — Assistente Pessoal** | Projeto de assistente pessoal com auxílio de IA, automações e integração com funcionalidades do Windows. |
-| **House Designer** | Ferramenta que começou como um configurador de mesas e evoluiu para o planejamento e personalização de ambientes e casas. |
-| **Automações de Dados e Excel** | Planilhas automatizadas, tratamento de dados, scripts Python, relatórios e integrações para simplificar processos. |
+| **Sistema de Gestão de Postos** | Organização administrativa, documentos, contratos e automação de rotinas operacionais. |
+| **Jarvis — Assistente Pessoal** | Assistente com comandos de voz, automações e integração com o Windows. |
+| **House Designer** | Ferramenta que evoluiu de um configurador de mesas para um projeto de ambientes e casas. |
+| **Automações de Dados e Excel** | Soluções com planilhas, Python, tratamento de informações, validações e relatórios. |
 
-> Os projetos acima representam trabalhos e experimentos pessoais. Alguns ainda estão em evolução e não possuem repositórios públicos.
+### Mais detalhes sobre os projetos
+
+<details>
+<summary><b>Sistema de Gestão de Postos</b></summary>
+
+Projeto para simplificar a organização administrativa e documental de postos de combustíveis. Inclui estudos e desenvolvimento de módulos de gestão de informações, controle de documentos e rotinas de apoio à operação.
+
+Uma frente importante envolve o gerenciamento de **flats e locatários**, com contratos, informações, recibos e armazenamento de arquivos no Google Drive. Também estudo mecanismos de atualização de dados entre diferentes computadores, com atenção ao histórico e à consistência dos registros.
+
+</details>
+
+<details>
+<summary><b>Jarvis — Assistente Pessoal</b></summary>
+
+Assistente pessoal experimental desenvolvido com auxílio de inteligência artificial, voltado à execução de comandos, automações e integração com o ambiente Windows.
+
+Entre as funcionalidades exploradas estão a ativação por palavra-chave, controle inteligente de volume durante a interação e reconhecimento de mudanças entre fones e caixas de som. O projeto busca unir conveniência, modularidade e eficiência no uso de recursos.
+
+</details>
+
+<details>
+<summary><b>House Designer</b></summary>
+
+O projeto começou como uma ferramenta de criação e personalização de mesas, com atenção a medidas e configuração do mobiliário. Evoluiu para a proposta de uma ferramenta de **planejamento de ambientes e casas**, com experimentação visual e dimensional.
+
+**Em evolução:** as funcionalidades são desenvolvidas e refinadas progressivamente.
+
+</details>
+
+<details>
+<summary><b>Automações de Dados e Excel</b></summary>
+
+Criação de planilhas automatizadas e experimentos com **Excel, Python, Pandas, SQL e Power BI**, especialmente para tratar informações, estruturar relatórios, conferir dados e reduzir tarefas repetitivas.
+
+O foco é aplicar automação a problemas reais da área contábil, administrativa e de análise de processos.
+
+</details>
+
+> Projetos pessoais em diferentes estágios de desenvolvimento; nem todos possuem repositórios públicos.
 
 ## Experiência profissional
 
-- **Synchro Solução Fiscal (Pesquisador iniciante):** apoio na elaboração de dashboards, planilhas, fluxogramas, documentação, testes e validação de sistemas.
-- **Auto Posto Monteirense:** atividades contábeis e administrativas, controle de informações e automação de planilhas.
-- **Camed Microcrédito:** suporte administrativo, organização de documentos, cadastros e controles em planilhas.
+### Pesquisador iniciante / Atuação como analista funcional — Projeto IF de Monteiro × Synchro
+
+Atuo em um **projeto desenvolvido em parceria entre o Instituto Federal em Monteiro e a Synchro Solução Fiscal**, e não como funcionário contratado diretamente pela Synchro.
+
+No contexto do projeto, exerço atividades de **análise funcional**, fazendo a ponte entre necessidades de negócio e validações de sistemas. As atividades incluem elaboração de dashboards, planilhas e fluxogramas; documentação de processos e manuais; análise de demandas; testes, homologações e identificação de inconsistências em soluções fiscais.
+
+Essa experiência combina meus conhecimentos de Ciências Contábeis com processos, dados e tecnologia.
+
+### Auto Posto Monteirense — Área contábil e administrativa
+
+Apoio a rotinas contábeis e administrativas, organização e conferência documental, lançamentos, baixas e controles financeiros. Desenvolvimento e manutenção de **planilhas automatizadas no Excel** para facilitar tarefas e acompanhar informações operacionais.
+
+### Camed Microcrédito — Auxiliar administrativo
+
+Experiência em atendimento e suporte administrativo, organização e digitalização de documentos, manutenção de cadastros, controle de planilhas e apoio às atividades das equipes.
 
 ## Pesquisa em andamento
 
