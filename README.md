@@ -100,7 +100,7 @@ O foco é aplicar automação a problemas reais da área contábil, administrati
 
 ### Pesquisador Profissional / Atuação como analista funcional — Projeto de Extensão ide.ia do IFPB Campus Esperança
 
-Atuo em um **projeto desenvolvido em parceria entre o Instituto Federal em Monteiro e a Synchro Solução Fiscal**, e não como funcionário contratado diretamente pela Synchro.
+Atuo em um **Projeto de Extensão ide.ia do IFPB Campus Esperança e a Synchro Solução Fiscal**, e não como funcionário contratado diretamente pela Synchro.
 
 No contexto do projeto, exerço atividades de **análise funcional**, fazendo a ponte entre necessidades de negócio e validações de sistemas. As atividades incluem elaboração de dashboards, planilhas e fluxogramas; documentação de processos e manuais; análise de demandas; testes, homologações e identificação de inconsistências em soluções fiscais.
 
