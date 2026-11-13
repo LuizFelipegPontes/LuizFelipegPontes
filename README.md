@@ -36,6 +36,8 @@ Tenho interesse especial em **automação com Excel e Python**, análise de dado
 
 ## Projetos em destaque
 
+![Projetos: Sistema de Gestão de Postos, Jarvis, House Designer e Automações de Dados e Excel](assets/projetos.svg)
+
 | Projeto | Descrição |
 |:--|:--|
 | **Sistema de Gestão de Postos** | Sistema para apoiar a organização administrativa, gestão documental, controle de informações e automação de rotinas de um posto. |
