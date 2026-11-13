@@ -1,12 +1,8 @@
 <div align="center">
 
-# Luiz Felipe Gomes Pontes
-
-### 🧮 Contador · 🤖 Vibe Coder · 📊 Automação & Dados
+![Luiz Felipe Gomes Pontes — Contador, Vibe Coder, Automação e Dados](assets/banner.svg)
 
 **Contabilidade como profissão. Tecnologia como ferramenta. Curiosidade como motivação.**
-
-![Perfil](https://img.shields.io/badge/PERFIL-CONTABILIDADE_%2B_TECNOLOGIA-18181B?style=for-the-badge&labelColor=111111&color=DC2626)
 
 </div>
 
