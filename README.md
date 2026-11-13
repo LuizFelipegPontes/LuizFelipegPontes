@@ -50,6 +50,11 @@ Projeto para simplificar a organização administrativa e documental de postos d
 
 Uma frente importante envolve o gerenciamento de **flats e locatários**, com contratos, informações, recibos e armazenamento de arquivos no Google Drive. Também estudo mecanismos de atualização de dados entre diferentes computadores, com atenção ao histórico e à consistência dos registros.
 
+**Estrutura e recursos do SistemaPosto:** plataforma modular em **JavaScript e Node.js**, com **SQLite** para armazenamento local e operação em rede, permitindo acesso por diferentes computadores sem depender de serviços externos para as funções principais. O projeto reúne gestão de empresas, funcionários, parâmetros de RH, folhas de pagamento, recibos, horários, contas a pagar e acompanhamento de vendas por funcionário ou período, além de dashboards com indicadores consolidados.
+
+Na parte documental, contempla organização de certidões e arquivos, acompanhamento de vencimentos, histórico de versões e sincronização com o Google Drive. O módulo de flats inclui cadastro de locatários, geração de contratos e recibos em PDF, controle de pagamentos, arquivamento de antigos locatários e rotinas de envio de documentos e cobranças por e-mail.
+
+
 </details>
 
 <details>
@@ -59,6 +64,11 @@ Assistente pessoal experimental desenvolvido com auxílio de inteligência artif
 
 Entre as funcionalidades exploradas estão a ativação por palavra-chave, controle inteligente de volume durante a interação e reconhecimento de mudanças entre fones e caixas de som. O projeto busca unir conveniência, modularidade e eficiência no uso de recursos.
 
+**Recursos do Jarvis:** assistente em **Python**, com interface própria e interação por **voz e texto**. Utiliza IA para interpretar solicitações, planejar ações e registrar rotinas bem-sucedidas para agilizar comandos recorrentes.
+
+O escopo do projeto abrange automação de programas e tarefas do Windows, macros personalizáveis, agenda, compromissos, notificações, análise e comparação de documentos e controle de serviços como YouTube e Spotify. Também inclui reconhecimento e síntese de voz, monitoramento do sistema, configurações ajustáveis e um mascote interativo no desktop.
+
+
 </details>
 
 <details>
@@ -67,6 +77,11 @@ Entre as funcionalidades exploradas estão a ativação por palavra-chave, contr
 O projeto começou como uma ferramenta de criação e personalização de mesas, com atenção a medidas e configuração do mobiliário. Evoluiu para a proposta de uma ferramenta de **planejamento de ambientes e casas**, com experimentação visual e dimensional.
 
 **Em evolução:** as funcionalidades são desenvolvidas e refinadas progressivamente.
+
+**MesaCAD — evolução do projeto:** aplicação web criada com **HTML, CSS e JavaScript**, usando **SVG** para a edição em 2D e **Three.js** para a visualização em 3D. Além do editor original de mesas em L, o projeto passou a contemplar paredes, pisos, portas, janelas, móveis e itens decorativos.
+
+Os elementos podem ser configurados por medidas, posição, rotação, altura e cor. A proposta reúne uma planta interativa em 2D, cotas e movimentação dos objetos, visualização por diferentes ângulos em 3D, salvamento de projetos, exportação em SVG e criação de cômodos a partir de medidas internas.
+
 
 </details>
 
