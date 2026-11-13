@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luiz Felipe Pontes
+# Luiz Felipe Gomes Pontes
 
 ### 🧮 Contador · 🤖 Vibe Coder · 📊 Automação & Dados
 
@@ -47,7 +47,7 @@ Tenho interesse especial em **automação com Excel e Python**, análise de dado
 
 ## Experiência profissional
 
-- **Synchro Solução Fiscal:** apoio na elaboração de dashboards, planilhas, fluxogramas, documentação, testes e validação de sistemas.
+- **Synchro Solução Fiscal (Pesquisador iniciante):** apoio na elaboração de dashboards, planilhas, fluxogramas, documentação, testes e validação de sistemas.
 - **Auto Posto Monteirense:** atividades contábeis e administrativas, controle de informações e automação de planilhas.
 - **Camed Microcrédito:** suporte administrativo, organização de documentos, cadastros e controles em planilhas.
 
