@@ -98,7 +98,7 @@ O foco é aplicar automação a problemas reais da área contábil, administrati
 
 ## Experiência profissional
 
-### Pesquisador iniciante / Atuação como analista funcional — Projeto IF de Monteiro × Synchro
+### Pesquisador Profissional / Atuação como analista funcional — Projeto IF de Monteiro × Synchro
 
 Atuo em um **projeto desenvolvido em parceria entre o Instituto Federal em Monteiro e a Synchro Solução Fiscal**, e não como funcionário contratado diretamente pela Synchro.
 
